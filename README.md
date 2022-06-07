@@ -51,15 +51,12 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 
 ### 3.	DIAGRAMAS
 
-
-###### _FIGURA 3_
-
 - Diagramas eléctricos
 
 ![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/2.png)
 
 
-###### _FIGURA 4_
+###### _FIGURA 2_
 
  - Diagramas esquemáticos.
 
@@ -67,7 +64,7 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 ![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/1.png)
 
 
-###### _FIGURA 5_
+###### _FIGURA 3_
 
 ### 4.	LISTA DE COMPONENTES
 
@@ -88,7 +85,23 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 
 ### 5.	EXPLICACIÓN
 
+Se tiene que preparar los componenetes antes de la construcción del circuito
 
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/3.png)
+
+###### _FIGURA 4_
+
+Se hace la creación del circuito del diagrama eléctrico en el protoboard
+
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/4.png)
+
+###### _FIGURA 5_}
+
+Se mide las corrinetes de las mallas 1, 2 y 3 
+
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/5.png)
+
+###### _FIGURA 6_
 
 
 ### 6.  MANUAL DE USUARIO
