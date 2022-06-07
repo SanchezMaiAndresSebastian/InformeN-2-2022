@@ -50,16 +50,6 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 ###### _FIGURA 1_
 
 ### 3.	DIAGRAMAS
-- Diagrama de bloques
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png)
-
-
-###### _FIGURA 2_
-
-- Diagramas UML
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/10.png)
 
 
 ###### _FIGURA 3_
