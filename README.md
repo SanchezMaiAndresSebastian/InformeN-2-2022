@@ -44,7 +44,7 @@ Para   que   un   conjunto   de   lazos   sea independiente se requiere que en c
     Divisor de tensión:
 Un divisor de tensión es una configuración del circuito eléctrico que reparte la tensión de una fuente entre una o más resistencias conectadas en serie, así: 
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/tree/main/Fotos/8.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/8.png)
 
 
 ###### _FIGURA 1_
