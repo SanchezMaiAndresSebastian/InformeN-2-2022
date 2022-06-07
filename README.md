@@ -144,6 +144,6 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 
 ### 11.	 ANEXOS
 
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/8.png)
 
-
-###### _FIGURA 7_
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/9.png)
