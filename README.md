@@ -56,7 +56,7 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 
 - Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/11.png)
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/2.png)
 
 
 ###### _FIGURA 4_
@@ -64,7 +64,7 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
  - Diagramas esquemáticos.
 
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/1.png)
 
 
 ###### _FIGURA 5_
