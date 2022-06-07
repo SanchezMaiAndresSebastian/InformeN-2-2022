@@ -1,4 +1,11 @@
 # Informe de Laboratorio 2
+### Nombre de los integrantes: 
+Bryan Almachi
+
+Norma Calvopiña
+
+Andrés Sánchez
+
 ## Análisis de Mallas
 ### 1.	OBJETIVOS
 
