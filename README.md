@@ -113,34 +113,19 @@ Se mide las corrinetes de las mallas 1, 2 y 3
  - Tener el multímetro siempre en la configurada en la medición de voltios 
  
 ### 8.	APORTACIONES
-Armar el circuito
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/1.png)
 
-__5.1__ Cálculos de forma teórica
+__5.1__ Tabulación de los datos
 
-- Calcular la corriente en las mallas
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/2.png)
+__5.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/3.png)
-
-- Calcular el error porcentual
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
-
-- Calcular la corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/4.png)
-
-__5.2__ Tabulación de los datos
-
-__5.2.1__ Resultados obtenidos de la medición de la corriente tanto teórico como simulado
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/6.png)
 
 __5.2.2__ Calculo del error
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/6.png)
 
+![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/7.png)
+
+En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro) Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente Terminamos midiendo el voltaje de cada resistor.
  
 ### 9.	CONCLUSIONES
 - Para el cálculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
