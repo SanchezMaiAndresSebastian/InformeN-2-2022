@@ -89,8 +89,12 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 ### 5.	EXPLICACIÓN
 
 
+
+
 ### 6.  MANUAL DE USUARIO
+
 ### 7.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
  - Siempre tener conectado a una fuente de corriente continua
  - Tener la fuente de voltaje configurada para la medición en voltios
  - Tener el multímetro siempre en la configurada en la medición de voltios 
