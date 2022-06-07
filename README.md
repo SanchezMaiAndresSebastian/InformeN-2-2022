@@ -125,30 +125,30 @@ __5.2.1__ Resultados obtenidos de la medición de la corriente tanto teórico co
 __5.2.2__ Calculo del error
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/6.png)
-
-### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+### 6.  MANUAL DE USUARIO
+### 7.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
  - Siempre tener conectado a una fuente de corriente continua
  - Tener la fuente de voltaje configurada para la medición en voltios
  - Tener el multímetro siempre en la configurada en la medición de voltios 
  
-### 7.	APORTACIONES
+### 8.	APORTACIONES
 
  - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
  - No es lo mismo la medición de voltaje con corriente 
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
  - La fuente de corriente directa mide cuantos amperios tiene el circuito.
  
-### 8.	CONCLUSIONES
+### 9.	CONCLUSIONES
 - Para el cálculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
 - Para la medición de las mallas se puede dar la dirección que se quiera
 
-### 9.	BIBLIOGRAFÍA
+### 10.	BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Mexico: Pearson Educacion. Serway,
 
 R. (2001). Fisica II. Mexico: Pearson Educacion.
 
-### 10.	 ANEXOS
+### 11.	 ANEXOS
 
 
 
