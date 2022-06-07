@@ -98,6 +98,14 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 
 ### 5.	EXPLICACIÓN
 
+
+### 6.  MANUAL DE USUARIO
+### 7.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+ - Siempre tener conectado a una fuente de corriente continua
+ - Tener la fuente de voltaje configurada para la medición en voltios
+ - Tener el multímetro siempre en la configurada en la medición de voltios 
+ 
+### 8.	APORTACIONES
 Armar el circuito
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/1.png)
 
@@ -125,22 +133,16 @@ __5.2.1__ Resultados obtenidos de la medición de la corriente tanto teórico co
 __5.2.2__ Calculo del error
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/6.png)
-### 6.  MANUAL DE USUARIO
-### 7.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
- - Siempre tener conectado a una fuente de corriente continua
- - Tener la fuente de voltaje configurada para la medición en voltios
- - Tener el multímetro siempre en la configurada en la medición de voltios 
- 
-### 8.	APORTACIONES
 
- - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
+ 
+### 9.	CONCLUSIONES
+- Para el cálculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
+- Para la medición de las mallas se puede dar la dirección que se quiera.
+- No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
  - No es lo mismo la medición de voltaje con corriente 
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
  - La fuente de corriente directa mide cuantos amperios tiene el circuito.
  
-### 9.	CONCLUSIONES
-- Para el cálculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
-- Para la medición de las mallas se puede dar la dirección que se quiera
 
 ### 10.	BIBLIOGRAFÍA
 
